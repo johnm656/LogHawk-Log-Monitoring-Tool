@@ -2,4 +2,20 @@
 An open source log analysis tool that can be automated to run as often as desired
 This preconfigured script will locate and notify of any suspicious activities within log files
 
+To run preconfigured script on a Windows machine 
+Python must be installed and to do so;
+Open Cmd prompt entering cmd in the task bar search
+In the terminal enter "sudo apt-get install python3"
+After python3 is installed;
+In terminal enter python3 <path/to/file> of the preconfigured script we have provided
+This will locate and filter a preset set of potential malicious threats and help to pinpoint source
+
+To run the script on Visual Studio Code
+Install Visual Studio Code from web browser
+Once installed, open Visual Studio Code and click open file
+Navigate to where file is located and open
+Script will load but need to be edited to locate to the the location of the log files
+This will need to be done in four locations of the script, as four logs are scanned in the same script
+
+
 
