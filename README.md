@@ -39,7 +39,20 @@ This will open scheduling program
 The time fields (from left to right) Minute, Hour, Day of Month(DOM), Month, Day of Week(DOW)   * means nothing selected and will run at all of times
                                       0-59   0-23       1-31          1-12         0-6       
 
+In Windows a task scheduler will be used to schedule time to run script
+In taskbar search type "task scheduler"
+Select "create basic task"
+Create a name and description for task
+In trigger tab, choose when task is to start then select start times and number of recurring days
+In action tab, select "start a program"
+Add script through browse tab
+Select script/program to run
+Click next
+Then finish and review selected schedule
 
+If an emailed copy of results of script is needed:
+Create a new basic task, but in action tab, instead of choosing start a program, select "send and email"
+Enter in source and destination email addresses, subject, description, and pick the attachment
 
 
 
