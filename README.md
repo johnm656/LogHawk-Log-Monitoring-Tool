@@ -34,6 +34,8 @@ It is suggested to run script once daily through an automated program called cro
 To run crontab, open linux terminal and type crontab -e
 This will open scheduling program 
 
+![Image](https://github.com/user-attachments/assets/e93bda06-e6bf-417f-91a8-6afc1658729e)
+
 
 
 
