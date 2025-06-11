@@ -26,6 +26,17 @@ This will need to be done in four locations of the script, as four logs are scan
 
 After all four file locations have been updated, click run and script will run showing all potential malicious activities
 
+![Image](https://github.com/user-attachments/assets/d447d9fb-b85e-4535-bf72-aa90df6ffec4)
+
+![Image](https://github.com/user-attachments/assets/a5103281-8887-47a2-9383-543d9c7c3c38)
+
+It is suggested to run script once daily through an automated program called crontab
+To run crontab, open linux terminal and type crontab -e
+This will open scheduling program 
+
+
+
+
 
 
 
