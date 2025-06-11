@@ -36,6 +36,9 @@ This will open scheduling program
 
 ![Image](https://github.com/user-attachments/assets/e93bda06-e6bf-417f-91a8-6afc1658729e)
 
+The time fields (from left to right) Minute, Hour, Day of Month(DOM), Month, Day of Week(DOW)   * means nothing selected and will run at all of times
+                                      0-59   0-23       1-31          1-12         0-6       
+
 
 
 
