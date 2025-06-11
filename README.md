@@ -10,6 +10,11 @@ After python3 is installed;
 In terminal enter python3 <path/to/file> of the preconfigured script we have provided
 This will locate and filter a preset set of potential malicious threats and help to pinpoint source
 
+![Image](https://github.com/user-attachments/assets/b379d22b-60cd-410e-a34d-6294ce1890b3)
+
+![Image](https://github.com/user-attachments/assets/7d0ccce8-0a8d-41ce-87ee-68c12c4f8c8d)
+
+
 To run the script on Visual Studio Code
 Install Visual Studio Code from web browser
 Once installed, open Visual Studio Code and click open file
