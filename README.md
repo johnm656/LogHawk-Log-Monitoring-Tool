@@ -21,9 +21,14 @@ Once installed, open Visual Studio Code and click open file
 Navigate to where file is located and open
 Script will load but need to be edited to locate to the the location of the log files
 This will need to be done in four locations of the script, as four logs are scanned in the same script
+
 ![Image](https://github.com/user-attachments/assets/0583b29e-c11f-4fa3-8c98-3c13060b9ce0)
 
 After all four file locations have been updated, click run and script will run showing all potential malicious activities
+
+
+
+
 
 
 
